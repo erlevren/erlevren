@@ -14,7 +14,10 @@ https://www.linkedin.com/in/erol-m%C4%B1s%C4%B1rl%C4%B1o%C4%9Flu-706346207/
 I am learning Java 🚀. I am learning programming from different sources 📃. I am improving myself.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
-[![GitLab last commit](https://badgen.net/gitlab/last-commit/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/commits)
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
+
+
 
 
 
