@@ -11,7 +11,7 @@ https://www.linkedin.com/in/erol-m%C4%B1s%C4%B1rl%C4%B1o%C4%9Flu-706346207/
 ⏲ What we are doing now:
 I am learning Java 🚀. I am learning programming from different sources 📃. I am improving myself.
 
-<img src="gorsel-link" width="auto">
+<img src="github-contribution-grid-snake.gif" width="auto">
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
 
