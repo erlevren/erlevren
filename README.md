@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Java                                                                           <img src="code.gif" width="auto">
+- 🔭 I’m currently working on Java                                                                           
 - 🌱 I’m currently learning (QA) Full Stack Automation Engineering
 - 💪 2022 goals: Learning React. ✨ To bring out quality projects.
 - ⚡ Fun fact: I love reading 📖, painting 🖌️, taking pictures 📷 and coding. 💻
@@ -16,6 +16,8 @@ I am learning Java 🚀. I am learning programming from different sources 📃. 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
 
 ![erlevren's GitHub stats](https://github-readme-stats.vercel.app/api?username=erlevren&theme=dark&show_icons=true)
+
+<img src="code.gif" width="auto">
 
 
 
