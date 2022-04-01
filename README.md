@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Java                                                                           
 - 🌱 I’m currently learning (QA) Full Stack Automation Engineering
-- 💪 2022 goals: Learning React. ✨ To bring out quality projects.
+- 💪 2022 goals: Learn to code. ✨ To bring out quality projects.
 - ⚡ Fun fact: I love reading 📖, painting 🖌️, taking pictures 📷 and coding. 💻
 - 📫 How to reach me:
 https://www.linkedin.com/in/erol-m%C4%B1s%C4%B1rl%C4%B1o%C4%9Flu-706346207/
