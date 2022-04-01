@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Java
 - 🌱 I’m currently learning Java
 - 💪 2022 goals: Learning React. ✨ To bring out quality projects.
@@ -15,7 +13,7 @@ I am learning Java 🚀. I am learning programming from different sources 📃. 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erlevren&theme=dark&show_icons=true)
+![erlevren's GitHub stats](https://github-readme-stats.vercel.app/api?username=erlevren&theme=dark&show_icons=true)
 
 
 
