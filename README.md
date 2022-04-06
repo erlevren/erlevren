@@ -17,7 +17,7 @@ I am learning Java 🚀. I am learning programming from different sources 📃. 
 
 ![erlevren's GitHub stats](https://github-readme-stats.vercel.app/api?username=erlevren&theme=dark&show_icons=true)
 
-<img src="code.gif" width="auto">
+
 
 
 
