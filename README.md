@@ -6,7 +6,7 @@
 - 💪 2022 goals: Learn to code. ✨ To bring out quality projects.
 - ⚡ Fun fact: I love reading 📖, painting 🖌️, taking pictures 📷 and coding. 💻
 - 📫 How to reach me:
-https://www.linkedin.com/in/erol-m%C4%B1s%C4%B1rl%C4%B1o%C4%9Flu-706346207/
+https://www.linkedin.com/in/erol-evren-706346207/
 
 ⏲ What we are doing now:
 I am learning Java 🚀. I am learning programming from different sources 📃. I am improving myself.
