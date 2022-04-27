@@ -7,12 +7,15 @@
 - ⚡ Fun fact: I love reading 📖, painting 🖌️, taking pictures 📷 and coding. 💻
 - 📫 How to reach me:
 https://www.linkedin.com/in/erol-evren-706346207/
+<a href="https://www.linkedin.com/in/erol-evren-706346207/" target="_blank">
+<img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
 ⏲ What we are doing now:
 I am learning Java 🚀. I am learning programming from different sources 📃. I am improving myself.
 
 <img src="github-contribution-grid-snake.gif" width="auto">
-<img src=https://img.shields.io/badge/LinkedIn-706346207?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
