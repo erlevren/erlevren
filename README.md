@@ -7,9 +7,9 @@
 - ⚡ Fun fact: I love reading 📖, painting 🖌️, taking pictures 📷 and coding. 💻
 ⏲ What we are doing now:
 I am learning Java 🚀. I am learning programming from different sources 📃. I am improving myself. 
-               <a href="https://www.linkedin.com/in/erol-evren-706346207/" target="_blank">
-               <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-               </a>
+<a href="https://www.linkedin.com/in/erol-evren-706346207/" target="_blank">
+<img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
 
 
