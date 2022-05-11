@@ -1,7 +1,7 @@
 ### Hi! Welcome to My Github Profile 👋
 
 
-- 🔭 I’m currently working on Java                                                                           
+- 🔭 I’m currently working on Java and Selenium                                                                            
 - 🌱 I’m currently learning (QA) Full Stack Automation Engineering
 - 💪 2022 goals: Learn to code. ✨ To bring out quality projects.
 - ⚡ Fun fact: I love reading 📖, painting 🖌️, taking pictures 📷 and coding. 💻
