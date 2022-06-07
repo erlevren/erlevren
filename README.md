@@ -11,10 +11,10 @@
 
 
 <img src="github-contribution-grid-snake.gif" width="auto">
-<a href="https://www.linkedin.com/in/erolevrenmsrl/" target="_blank">
+                                             <a href="https://www.linkedin.com/in/erolevrenmsrl/" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-                                             
+                                                                                        
 <img src="walking-code.gif" width="auto">   ![erlevren's GitHub stats](https://github-readme-stats.vercel.app/api?username=erlevren&theme=dark&show_icons=true)
 
 
