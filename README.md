@@ -14,6 +14,8 @@
 
 <img src="github-contribution-grid-snake.gif" width="auto">
 
+<img src="walking-code.gif" width="auto">
+
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
