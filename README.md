@@ -8,7 +8,7 @@
 - ⏲ What we are doing now: i am writing code 🚀. I am learning programming from different sources 📃. I am improving myself. 
 <a href="https://www.linkedin.com/in/erolevrenmsrl/" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+</a> ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
