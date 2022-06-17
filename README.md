@@ -11,7 +11,6 @@
 </a> 
 <a target="_blank"href="https://medium.com/@erlevren"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;	
 
-https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
