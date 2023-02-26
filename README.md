@@ -3,8 +3,8 @@
 
 - 🔭 I’m Full Stack Automation Engineer                                                                            
 - 🌱 I'm working on a project with framework TestNG and Cucumber
-- 💪 2022 goals: To bring out quality projects.
-- ⚡ Fun fact: I love coding 💻, writing blog 🖋️, football ⚽ and playing guitar 🎸. 
+- 💪 Fun fact: I love coding 💻
+- ⚡ writing blog 🖋️, football ⚽ and playing guitar 🎸. 
 - ⏲ What we are doing now: i am writing code 🚀.
 <a href="https://www.linkedin.com/in/erolevren/" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
