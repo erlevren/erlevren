@@ -1,8 +1,9 @@
 ### Hi! Welcome to My Github Profile 👋
 
 
-- 🔭 I’m Full Stack Automation Engineer                                                                            
+- 🔭 I’m Software Automation Engineer                                                                           
 - 🌱 I'm working on a project with framework TestNG and Cucumber
+- 🌱 I'm instructor on Selenium, SQL and GitGithub
 - 💪 Fun fact: I love coding 💻
 - ⚡ writing blog 🖋️, football ⚽ and playing guitar 🎸. 
 - ⏲ What we are doing now: i am writing code 🚀.
