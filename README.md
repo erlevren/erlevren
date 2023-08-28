@@ -16,12 +16,6 @@
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 
-
-                                                                                                                                     
-![erlevren's GitHub stats](https://github-readme-stats.vercel.app/api?username=erlevren&theme=dark&show_icons=true)
-
-
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
 
 
