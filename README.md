@@ -24,7 +24,7 @@
 </p>
 
 
-![snake gif](https://github.com/erlevren/erlevren/blob/main/profile-green-animate.svg)
+![snake gif](https://github.com/erlevren/erlevren/blob/output/github-contribution-grid-snake.svg)
 
 
 
