@@ -24,6 +24,8 @@
 </p>
 
 
+![snake gif](github-contribution-grid-snake.svg)
+
 
 
 
