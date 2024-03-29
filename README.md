@@ -24,7 +24,7 @@
 </p>
 
 
-https://github.com/erlevren/erlevren/blob/output/github-contribution-grid-snake.svg
+
 
 
 
