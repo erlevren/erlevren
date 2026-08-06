@@ -3,10 +3,8 @@
 
 - 🔭 I’m Software Automation Engineer                                                                           
 - 🌱 I'm working on a project with framework TestNG and Cucumber
-- 🌱 I'm instructor on Selenium, SQL/jdbc, Api/Postman and Git/Github  
-- 💪 Fun fact: I love coding 💻
-- ⚡ writing blog 🖋️, football ⚽ and playing guitar 🎸. 
-- ⏲ What we are doing now: i am writing code 🚀.
+- 🌱 I'm instructor on Java-Selenium, SQL/jdbc, Api/Postman, Appium and Git/Github  
+
 <a href="https://www.linkedin.com/in/erolevren/" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
