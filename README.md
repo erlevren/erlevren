@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m Software Automation Engineer                                                                           
-- 🌱 I'm working on a project with framework TestNG and Cucumber
 - 🌱 I'm instructor on Java-Selenium, SQL/jdbc, Api/Postman, Appium and Git/Github  
 
 <a href="https://www.linkedin.com/in/erolevren/" target="_blank">
