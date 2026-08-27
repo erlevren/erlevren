@@ -4,11 +4,9 @@
   </a>
 </p>
 
-# Hi there, I'm Erol Evren! 👋
-
 <p align="center">
   <a href="https://github.com/erlevren">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=36A351&center=true&vCenter=true&width=600&lines=Software+Quality+Assurance+Engineer;Test+Automation+Architect;Java+%26+Python+Automation+Specialist;Instructor+%26+Mentor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36A351&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Erol+Evren!+%F0%9F%90%8B;Software+Quality+Assurance+Engineer;Test+Automation+Architect;Java+%26+Python+Automation+Specialist;Instructor+%26+Mentor" alt="Typing SVG" />
   </a>
 </p>
 
