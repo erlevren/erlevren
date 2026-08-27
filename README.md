@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=200&section=header&text=Erol%20Evren%20M%C4%B1s%C4%B1rl%C4%B1o%C4%9Flu&fontSize=38&animation=fadeIn&fontColor=ffffff&desc=Senior%20Software%20QA%20%26%20Test%20Automation%20Engineer&descSize=18&descAlignY=62" width="100%" />
-</p>
+# Hi there, I'm Erol Evren Mısırlıoğlu! 👋
 
 <p align="center">
   <a href="https://github.com/erlevren">
@@ -32,7 +30,7 @@ Detail-oriented **Software Quality Assurance Engineer** with 5+ years of experie
 
 ---
 
-### 🧰 Tech Stack & Tools *(Click icons to visit official sites)*
+### 🧰 Tech Stack & Tools *(Tıklayarak resmi sitelerine gidebilirsiniz)*
 
 #### **Automation Frameworks**
 <p align="left">
@@ -80,8 +78,4 @@ Detail-oriented **Software Quality Assurance Engineer** with 5+ years of experie
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erlevren&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erlevren&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erlevren&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
