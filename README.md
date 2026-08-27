@@ -1,4 +1,10 @@
-# Hi there, I'm Erol Evren Mısırlıoğlu! 👋
+<p align="center">
+  <a href="https://github.com/erlevren">
+    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/test-ts.svg" width="100" height="100" alt="QA Automation Logo" />
+  </a>
+</p>
+
+# Hi there, I'm Erol Evren! 👋
 
 <p align="center">
   <a href="https://github.com/erlevren">
