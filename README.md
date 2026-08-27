@@ -12,7 +12,7 @@
 
 ### 🛠️ About Me
 
-Detail-oriented **Software Quality Assurance Engineer** with 5+ years of experience in designing, developing, and executing end-to-end automated testing solutions for web, mobile, and API platforms.
+Detail-oriented **Software Quality Assurance Engineer** with 6+ years of experience in designing, developing, and executing end-to-end automated testing solutions for web, mobile, and API platforms.
 
 - 🌱 **Instructor & Mentor:** Java, Selenium, SQL/JDBC, API (Postman/RestAssured), Appium, and Git/GitHub
 
@@ -34,7 +34,7 @@ Detail-oriented **Software Quality Assurance Engineer** with 5+ years of experie
 
 ---
 
-### 🧰 Tech Stack & Tools *(Tıklayarak resmi sitelerine gidebilirsiniz)*
+### 🧰 Tech Stack & Tools
 
 #### **Automation Frameworks**
 <p align="left">
